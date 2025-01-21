@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\TeamCity\\proj\\proj.csproj": {}
+    "C:\\TeamCity\\proj\\proj.csproj": {}
   },
   "projects": {
-    "c:\\TeamCity\\proj\\proj.csproj": {
+    "C:\\TeamCity\\proj\\proj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\TeamCity\\proj\\proj.csproj",
+        "projectUniqueName": "C:\\TeamCity\\proj\\proj.csproj",
         "projectName": "proj",
-        "projectPath": "c:\\TeamCity\\proj\\proj.csproj",
+        "projectPath": "C:\\TeamCity\\proj\\proj.csproj",
         "packagesPath": "C:\\Users\\AG_2021SER01\\.nuget\\packages\\",
-        "outputPath": "c:\\TeamCity\\proj\\obj\\",
+        "outputPath": "C:\\TeamCity\\proj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AG_2021SER01\\AppData\\Roaming\\NuGet\\NuGet.Config"

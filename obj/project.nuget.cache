@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "42leopTWPWg3kLdqMc/Q7uLK68TBYkGaWoy9XBQZTjZ1SHNG7AdeX9eKAb+ogLew04DtPG1beuBKmtmTWP5RRA==",
+  "dgSpecHash": "0sqbCcuPjimaWAxTjZIgdOLzxxNSoqpw7ApX/lbIzpgCj2WcJP7LGsmEwdAHkuGGxpn+tq7OYbMy/BiIO4csew==",
   "success": true,
-  "projectFilePath": "c:\\TeamCity\\proj\\proj.csproj",
+  "projectFilePath": "C:\\TeamCity\\proj\\proj.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AG_2021SER01\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.12\\microsoft.aspnetcore.openapi.8.0.12.nupkg.sha512",
     "C:\\Users\\AG_2021SER01\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
